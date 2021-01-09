@@ -197,7 +197,7 @@ a:active {
   Media Queries
 ------------------------------------- */
 
-@media (min-width:769px) {
+@media (min-width:768px) {
 
     /*----------------------Header--------------------*/
 
@@ -299,7 +299,7 @@ a:active {
     }   
 }
 
-@media (min-width:1025px) {
+@media (min-width:1024px) {
 
 /*-------------------------------Header--------------------*/
     body {
